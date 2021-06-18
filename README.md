@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+->패스트 캠퍼스 쇼핑몰 프로젝트 클론 프로젝트입니다. 
+
 ## Available Scripts
 
 In the project directory, you can run:
